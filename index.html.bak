@@ -214,7 +214,7 @@
             </div>
 
             <div class="input-group">
-              <input type="mail" placeholder="Preencha seu e-mail" required />
+              <input type="text" placeholder="Preencha seu e-mail" required />
             </div>
 
             <div class="input-group">
