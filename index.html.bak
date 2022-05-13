@@ -38,19 +38,28 @@
              <span>&#x1F4B2; PEÇA UM ORÇAMENTO &#x1F4B2; </span></a>
           <ul class="menu-social">
             <li>
-              <a href="" target="_blank"
+              <a href="https://www.linkedin.com/in/bruno-apostolico-silva-76082749/" target="_blank"
                 ><img
                   src="./assets/img/icon-linkedin.svg"
                   alt="Ir para Página do Linkedin"
               /></a>
             </li>
             <li>
-              <a href="" target="_blank"
+              <a href="https://www.instagram.com/bapostolico/" target="_blank"
                 ><img
                   src="./assets/img/icon-instagram.svg"
                   alt="Ir para Página do Instagram"
               /></a>
             </li>
+			
+			 <li>
+              <a href="https://github.com/BrunoApostolico" target="_blank"
+                ><img
+                  src="./assets/img/icon-github.svg"
+                  alt="Ir para Página do GitHub"
+              /></a>
+            </li>
+			
           </ul>
         </nav>
       </div>
@@ -82,7 +91,7 @@
               </a>
             </div>
 
-            <a href="" class="btn-primary empty">Veja meus cases</a>
+            <a href="https://github.com/BrunoApostolico" class="btn-primary empty">Veja meus cases</a>
           </div>
         </div>
       </section>
@@ -146,26 +155,26 @@
             </p>
             <ul>
               <li>
-                <a href=""
+                <a href="https://www.linkedin.com/in/bruno-apostolico-silva-76082749/"
                   ><img src="./assets/img/icon-linkedin.svg" alt="Meu Linkedin"
                 /></a>
               </li>
               <li>
-                <a href=""
+                <a href="https://www.instagram.com/bapostolico/"
                   ><img
                     src="./assets/img/icon-instagram.svg"
                     alt="Meu Instagram"
                 /></a>
               </li>
               <li>
-                <a href=""
+                <a href="https://github.com/BrunoApostolico"
                   ><img src="./assets/img/icon-github.svg" alt="Meu GitHub"
                 /></a>
               </li>
             </ul>
           </div>
           <div class="my-picture">
-            <img src="./assets/img/picture2.jpg" alt="Foto de Perfil" />
+            <img src="./assets/img/picture.svg" alt="Foto de Perfil" />
           </div>
         </div>
       </section>
@@ -205,7 +214,7 @@
             </div>
 
             <div class="input-group">
-              <input type="text" placeholder="Preencha seu nome" required />
+              <input type="mail" placeholder="Preencha seu e-mail" required />
             </div>
 
             <div class="input-group">
