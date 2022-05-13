@@ -13,11 +13,10 @@ Projeto realizado no módulo de FrontEnd do curso DevStart da be.academy em maio
 
 ## Autores
 
-- [@lnmont 😄](https://www.github.com/lnmont)
 - [@BrunoApostolico 🚀](https://www.github.com/brunoapostolico) 
 
 
 ## UI Design Figma
 
-Foi utilizado o Design UI desenvolvido no Figma.
+Foi utilizado o Design UI desenvolvido no Figma pelo professor [@lnmont 😄](https://www.github.com/lnmont).
 
