@@ -300,7 +300,13 @@ header .container nav .menu-social img:hover {
 }
 
 .s-contact .container .form-contact .input-group input[type="text"] {
-  margin-bottom: 3.1rem;
+  margin-bottom: 2.1rem;
+}
+.s-contact .container .form-contact .input-group input[type="number"]{
+  margin-bottom: 2.1rem;
+}
+.s-contact .container .form-contact .input-group input[type="email"]{
+  margin-bottom: 2.1rem;
 }
 .s-contact .container .form-contact .input-group textarea {
   margin-bottom: 0;
