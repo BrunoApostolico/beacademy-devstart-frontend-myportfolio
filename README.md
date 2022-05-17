@@ -9,7 +9,7 @@
 
 Projeto realizado no módulo de FrontEnd Essentials do curso DevStart da be.academy em maio de 2022.
 
-# Link do Portfólio
+## Link do Portfólio
 
 - [Clique Aqui](https://brunoapostolico.github.io/beacademy-devstart-frontend-myportfolio/)
 
