@@ -106,6 +106,13 @@ header .container nav .menu-social img:hover {
   justify-content: space-between;
   gap: 1.6rem;
   margin-top: 2.3rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.s-hero .container .title .techs:hover {
+  transform: translateY(-12%);
+  filter: brightness(80%);
 }
 
 .s-hero .container .title .btn-primary {
@@ -299,13 +306,10 @@ header .container nav .menu-social img:hover {
   max-width: 48.6rem;
 }
 
-.s-contact .container .form-contact .input-group input[type="text"] {
-  margin-bottom: 2.1rem;
-}
-.s-contact .container .form-contact .input-group input[type="number"]{
-  margin-bottom: 2.1rem;
-}
-.s-contact .container .form-contact .input-group input[type="email"]{
+.s-contact .container .form-contact .input-group input[type="text"], 
+.s-contact .container .form-contact .input-group input[type="number"],
+.s-contact .container .form-contact .input-group input[type="email"]
+{
   margin-bottom: 2.1rem;
 }
 .s-contact .container .form-contact .input-group textarea {
@@ -339,7 +343,7 @@ footer .container {
 }
 
 footer .container .copy {
-  padding: 5.2rem 0;
+  padding: 4.2rem 0;
 }
 
 footer .container .copy {
