@@ -5,7 +5,7 @@
 
 
 
-# be.academy - My Portfolio
+# My Portfolio
 
 Projeto realizado no módulo de FrontEnd Essentials do curso DevStart da be.academy em maio de 2022.
 
