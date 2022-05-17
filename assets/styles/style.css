@@ -1,3 +1,12 @@
+body {
+    background: url('../img/bkground.png') center center no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
 /* Header */
 
 header {
@@ -52,7 +61,9 @@ header .container nav .menu-social img:hover {
 /* Section hero */
 
 .s-hero {
-    background: url(../img/s-hero-bg.jpg);
+    /*  background: url(../img/s-hero-bg.jpg); */
+    background-color: var(--black-color-medium);
+    opacity: 0.8;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -318,6 +329,8 @@ header .container nav .menu-social img:hover {
 /* Contact */
 
 .s-contact {
+    background-color: var(--black-color-medium);
+    opacity: 0.9;
     padding-bottom: 4rem;
 }
 
@@ -339,11 +352,13 @@ header .container nav .menu-social img:hover {
 .s-contact .container .form-contact .input-group input[type="text"],
 .s-contact .container .form-contact .input-group input[type="number"],
 .s-contact .container .form-contact .input-group input[type="email"] {
-    margin-bottom: 2.1rem;
+    margin-bottom: 0.6rem;
+    margin-top: 1.5rem;
 }
 
 .s-contact .container .form-contact .input-group textarea {
-    margin-bottom: 0;
+    margin-top: 1.5rem;
+    margin-bottom: 0rem;
 }
 
 .input-button {
