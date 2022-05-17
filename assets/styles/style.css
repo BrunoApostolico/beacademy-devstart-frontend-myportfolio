@@ -106,11 +106,13 @@ header .container nav .menu-social img:hover {
   justify-content: space-between;
   gap: 1.6rem;
   margin-top: 2.3rem;
-  cursor: pointer;
+}
+
+.s-hero .container .title .techs img {
   transition: all 0.2s;
 }
 
-.s-hero .container .title .techs:hover {
+.s-hero .container .title .techs img:hover {
   transform: translateY(-12%);
   filter: brightness(80%);
 }
